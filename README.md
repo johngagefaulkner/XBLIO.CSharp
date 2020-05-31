@@ -1,5 +1,6 @@
 # XBLIO.CSharp
-API library written in C#, wrapped around the https://XBL.IO/ REST API.
+C# library wrapped around the https://XBL.IO/ REST API. 
+###### Currently in very early stages. Expect rapid increase in progress around mid-June.
 
 ## Updates
 |Date|Comment|
