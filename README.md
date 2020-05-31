@@ -1,4 +1,6 @@
 # XBLIO.CSharp
+![Xbox-Square-Green-128px](https://raw.githubusercontent.com/johngagefaulkner/XBLIO.CSharp/master/img/xbox-square-green-128px.png)
+
 C# library wrapped around the https://XBL.IO/ REST API. &nbsp;
 
 **Target:** .NET Framework | **Version:** 4.7.2
