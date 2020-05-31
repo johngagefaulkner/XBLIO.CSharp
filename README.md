@@ -1,8 +1,10 @@
 # XBLIO.CSharp
-C# library wrapped around the https://XBL.IO/ REST API. 
-###### Currently in very early stages. Expect rapid increase in progress around mid-June.
+C# library wrapped around the https://XBL.IO/ REST API. &nbsp;
+
+**Target:** .NET Framework | **Version:** 4.7.2
 
 ## Updates
+###### Currently in very early stages. Expect rapid increase in progress around mid-June.
 |Date|Comment|
 :-:|:--|
 |May 31st, 2020|✔️ **[COMPLETE] ─** `Created the GitHub repository`|
@@ -53,6 +55,5 @@ C# library wrapped around the https://XBL.IO/ REST API.
 |#39|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
 |#40|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
 
-&nbsp;
 
 > Made with ❤️ by [@johngagefaulkner](https://github.com/johngagefaulkner)
