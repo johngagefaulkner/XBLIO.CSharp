@@ -1,5 +1,5 @@
 # XBLIO.CSharp
-![Xbox-Square-Green-128px](https://raw.githubusercontent.com/johngagefaulkner/XBLIO.CSharp/master/img/xbox-square-green-128px.png)
+![Xbox-Square-Green-128px](https://i.imgur.com/hC49hA6.png)
 
 C# library wrapped around the https://XBL.IO/ REST API. &nbsp;
 
