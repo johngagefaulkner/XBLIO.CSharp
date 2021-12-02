@@ -1,9 +1,10 @@
 # XBLIO.CSharp
-![Xbox-Square-Green-128px](https://i.imgur.com/hC49hA6.png)
+![Xbox-Square-Green-128px](https://raw.githubusercontent.com/johngagefaulkner/XBLIO.CSharp/master/Assets/XBL-IO-CSharp-SDK.png)
 
-C# library wrapped around the https://XBL.IO/ REST API. &nbsp;
+Unofficial C# SDK for the Unofficial Xbox Live API at https://xbl.io/
 
-**Target:** .NET Framework | **Version:** 4.7.2
+- **OLD Target:** .NET Framework | **Version:** 4.7.2
+- **NEW Target:** .NET 6 (LTS)
 
 ## Updates
 ###### Currently in very early stages. Expect rapid increase in progress around mid-June.
@@ -11,6 +12,7 @@ C# library wrapped around the https://XBL.IO/ REST API. &nbsp;
 :-:|:--|
 |May 31st, 2020|✔️ **[COMPLETE] ─** `Created the GitHub repository`|
 |May 31st, 2020|🕙 **[IN PROGRESS] ─** `Initializing API Parity Checklist`|
+|December 2, 2021|🕙 **[IN PROGRESS] ─** `Decided to take another look at this, finish up some basic endpoint modeling and release a usable version. Also, the icon was updated.`|
 
 ## API Parity Checklist
 
@@ -21,41 +23,6 @@ C# library wrapped around the https://XBL.IO/ REST API. &nbsp;
 |#3|May 31st, 2020|🕙 **[GET] ─** `/Friends`|In Progress|
 |#4|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
 |#5|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#6|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#7|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#8|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#9|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#10|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#11|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#12|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#13|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#14|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#15|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#16|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#17|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#18|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#19|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#20|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#21|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#22|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#23|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#24|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#25|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#26|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#27|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#28|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#29|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#30|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#31|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#32|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#33|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#34|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#35|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#36|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
-|#37|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#38|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#39|May 31st, 2020|❌ **[GET] ─** `/`|Not Started|
-|#40|May 31st, 2020|❌ **[POST] ─** `/`|Not Started|
 
 
 > Made with ❤️ by [@johngagefaulkner](https://github.com/johngagefaulkner)
